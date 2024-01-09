@@ -1,0 +1,32 @@
+PRINCIPAIS MODELOS DE SERVIÇOS EM NUVEM
+1- INFRAESTURA COMO SERVIÇO (IAAS) - o usuário é responsável por gerenciar tudo, aplicativos, middleware, sistemas operacionais e máquinas virtuais. O provedor de serviço é responsável por manter a infraestrutura do datacenter que hospedará as máquinas virtuais dos usuários.
+2- PLATAFORMA COMO SERVIÇO (PAAS) -  a responsabilidade do usuário diminui e aumenta a do provedor. O provedor é responsável por entregar todos os recursos de hardware e software necessários para que o usuário possa construir seus aplicativos. O código e os dados gerados pela aplicação são responsabilidade do usuário.
+3- SOFTWARE COMO SERVIÇO (SAAS) - é aquele com o qual o usuário tem menor responsabilidade, bastando apenas se conectar aos aplicativos disponibilizados e utilizar. Ao contrário, o provedor de serviços é o que tem maior responsabilidade. Ele é responsável por gerenciar toda a pilha de aplicativos, desde o hardware, passando pelos sistemas operacionais, até o aplicativo.
+IaaS – Requer o máximo de gerenciamento do usuário entre os serviços da nuvem.
+PaaS – Requer menos gerenciamento do usuário.
+SaaS – Requer o mínimo de gerenciamento do usuário.
+DRaaS (Recuperação de Desastres como Serviço), voltada para segurança da informação, responsável pela replicação dos servidores, dados e aplicações.
+CaaS (Comunicação como Serviço), quando as soluções de comunicação, tais como VoIP, mensagens e streaming de vídeos, são oferecidas como serviço.
+FaaS (Função como Serviço), DBaas (Banco de Dados como Serviço), MaaS (Malware como Serviço), entre outras.
+Public cloud – nuvem pública
+As nuvens públicas são aquelas nas quais os provedores de serviços disponibilizam todos os recursos, como computação, armazenamento e aplicativos para o público em geral pela internet. Qualquer usuário pode efetuar login e usar esses serviços. Você paga pelo número de recursos que usa. Nesse modelo, os usuários possuem menos controle sobre seus dados.
+Private cloud – nuvem privada
+As nuvens privadas são ambientes de nuvem construídos exclusivamente para um único usuário, ou uma única empresa, normalmente localizados por trás do firewall do usuário.
+Hybrid cloud – nuvem híbrida
+As nuvens híbridas são aquelas constituídas pelos serviços da nuvem pública e privada. Alguns serviços são hospedados na nuvem privada, enquanto outros na nuvem pública. Assim, a empresa pode manter dados cruciais na nuvem privada e outros dados na nuvem pública, aproveitando o melhor dos dois mundos.
+
+Ao optar pela nuvem híbrida, a empresa agrega uma solução que mescla características da nuvem privada e da nuvem pública.
+Community Cloud – nuvem comunitária
+As nuvens comunitárias são compartilhadas por diversas empresas que possuem interesses comuns, como a missão, os requisitos de segurança, políticas, entre outros. Nesse modelo, a nuvem comunitária pode ser administrada tanto pela própria organização ou por terceiros e pode existir tanto dentro (on premises) quanto fora (off premises) da organização.
+
+A nuvem comunitária funciona de modo semelhante à nuvem pública, mas com um número de usuários reduzido. Assim como na nuvem pública, os custos com manutenção, a troca de equipamentos e atualização do hardware nesse tipo de infraestrutura são divididos entre diferentes usuários.
+
+Computação sem servidor ou serverless computing é a tecnologia que permite hospedarmos funções (Plataforma de Função como Serviço – FaaS) sem a preocupação de configuração do servidor, pois todo o ambiente (hardware e software) já está pronto para execução da função desenvolvida.
+
+Provedor de serviços de aplicação (ASP)
+Provedor de serviços de aplicação ou application service provider (no inglês, ASP) é um formato de terceirização que fornece software e aplicações por meio da internet para usuários finais, pequenas e médias empresas ou até grandes organizações. Em vez de as organizações arcarem com os encargos financeiros, os requisitos de hardware e os conhecimentos técnicos necessários para possuir o software, eles alugam esses aplicativos de terceiros. Nesse modelo, os provedores alugam aplicações e serviços de acordo com a necessidade dos clientes. E os clientes pagam um valor para usufruir desse serviço como uma assinatura.
+Grid computing
+A grid computing ou computação em grade é a tecnologia que agrupa servidores com o objetivo de trabalhar em conjunto formando uma grande infraestrutura. Esse modelo requer o uso de softwares responsáveis em dividir e distribuir partes de um programa como uma imagem grande do sistema para milhares de computadores.
+
+O termo grid foi usado inicialmente nos anos 1990, no meio acadêmico. Foi originalmente proposto para denotar um sistema de computação distribuída que provia serviços computacionais sob demanda, da mesma forma que os fornecedores de energia elétrica e de água.
+
